@@ -1,0 +1,2 @@
+这是一个基于Plant Simulation的制造系统仿真模型，车间框架考虑到隐私还是删掉了，但是整体运行逻辑保留下来了。里面的控件比较多，通过Method控制了车间的整体逻辑，左侧的按钮中，部分按钮功能有bug，欢迎大家进一步开发。
+This is a manufacturing system simulation model based on Plant Simulation. The workshop framework has been removed due to privacy concerns, but the overall operational logic has been retained. There are quite a few controls inside, and the overall logic of the workshop is controlled through Method. Some of the buttons on the left have bugs in their functions, and we welcome further development.
